@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://test_dev:testdev@mozi47-6jxo7.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"myscerettoken",
+    "GITHUB_CLIENT_ID":"9afc5bf70a5bd61d47d1",
+    "GITHUB_CLIENT_SECRET":"0e29941862eed1f528627379014c9ef769c9af4d"
+}
